@@ -34,6 +34,7 @@ This template depends on the latest Obsidian API: `obsidian.d.ts`.
 
 ## Learn More &#x1F4D3;
 
+- [Obsidian API].
 - [Obsidian Plugin Developer Docs] (author: [marcusolsson]).
 - [Obsidian Plugin 中文开发文档] (translator: [luhaifeng666]).
 
@@ -68,10 +69,11 @@ MIT license.
 
 ## 了解更多 &#x1F4D3;
 
+- [Obsidian API].
 - [Obsidian Plugin Developer Docs] (作者: [marcusolsson]).
 - [Obsidian Plugin 中文开发文档] (译者: [luhaifeng666]).
 
-## 开源协议 &#x2696;&#xFE0F;
+## 开源许可协议 &#x2696;&#xFE0F;
 
 MIT 开源许可协议.
 
@@ -94,6 +96,7 @@ MIT 开源许可协议.
 [Volar]: https://marketplace.visualstudio.com/items?itemName=Vue.volar
 [if someone already developed a plugin for what you want]: https://obsidian.md/plugins
 [Node.js]: https://nodejs.org
+[Obsidian API]: https://github.com/obsidianmd/obsidian-api
 [Obsidian Plugin Developer Docs]: https://marcus.se.net/obsidian-plugin-docs
 [marcusolsson]: https://github.com/marcusolsson
 [Obsidian Plugin 中文开发文档]: https://luhaifeng666.github.io/obsidian-plugin-docs-zh
